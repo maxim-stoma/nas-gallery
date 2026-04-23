@@ -11,7 +11,7 @@
    - Откройте файл в интерфейсе GitHub.
    - Нажмите кнопку **"Raw"**.
    - Скопируйте URL из адресной строки браузера.
-   - *Пример формата ссылки:* `https://raw.githubusercontent.com/username/repository/main/img/your-image.jpg`
+   - *Пример формата ссылки:* `https://raw.githubusercontent.com/username/repository/main/img/2015/your-image.jpg`
 3. В Zero Block или стандартном блоке Tilda выберите **"Upload by URL"** и вставьте скопированную ссылку.
 
 ## 📁 Структура проекта
